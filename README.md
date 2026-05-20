@@ -6,7 +6,7 @@ Dự án này được xây dựng theo chuẩn Production-ready, áp dụng cá
 
 ---
 
-## 🏗 Tổng quan Kiến trúc Hệ thống
+## Tổng quan Kiến trúc Hệ thống
 
 Hệ thống được chia làm hai phần độc lập (Microservices Architecture), giao tiếp với nhau qua RESTful API, và được bảo mật bằng JWT Token.
 
