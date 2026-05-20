@@ -2,7 +2,7 @@
 
 Một hệ thống  dùng để giám sát sức khỏe, thời gian phản hồi (uptime/response time) của các API Endpoints và tự động gửi cảnh báo qua Telegram khi hệ thống gặp sự cố.
 
-Dự án này được xây dựng theo chuẩn Production-ready, áp dụng các kiến trúc và công nghệ hiện đại nhất dành cho môi trường doanh nghiệp.
+Dự án này được xây dựng theo chuẩn Production-ready, áp dụng các kiến trúc và công nghệ đáp ứng nhu cầu cơ bản dành cho môi trường doanh nghiệp.
 
 ---
 
